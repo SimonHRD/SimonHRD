@@ -1,4 +1,4 @@
-### Hi, I'm Simon 👋
+### Hi, I'm Simon 👋👨🏼‍💻
 
 <!--
 **SimonHRD/SimonHRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
