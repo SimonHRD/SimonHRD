@@ -1,7 +1,7 @@
 ### Hi, I'm Simon 👋👨🏼‍💻
 
-🖥️ Data Engineer | 🎓 BSc CS Student  
-🐍 Python • 🧠 Machine Learning • 🔄 Data Processing • 🐳 Docker
+Data Engineer | BSc CS Student  
+Python • Machine Learning • Data Processing • Big-Data
 
 <!--
 **SimonHRD/SimonHRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
