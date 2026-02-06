@@ -1,6 +1,6 @@
 ### Hi, I'm Simon 👋👨🏼‍💻
 
-Data Engineer | BSc CS Student  
+Data Engineer
 Python • Machine Learning • Data Processing • Big-Data
 
 <!--
